@@ -8,6 +8,7 @@ It's time to learn swift again.
 3 字符串的使用 --- :metal: :metal: :metal: :metal: :metal: :metal: :metal: :metal:---->[字符串的简单介绍](https://github.com/AlexanderYeah/ATSwiftWorkSpace/blob/master/Lession3/str.md)  
 4 数组的使用 --- :bowtie: :bowtie: :bowtie: :bowtie: :bowtie: :bowtie: :bowtie: :bowtie: :bowtie:---->[数组的使用](https://github.com/AlexanderYeah/ATSwiftWorkSpace/blob/master/Lession4/array.md)  
 5 可选类型 --- :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom:---->[可选类型](https://github.com/AlexanderYeah/ATSwiftWorkSpace/blob/master/Lession5/optional.md)  
-6 闭包的了解 ---  :innocent::innocent::innocent::innocent::innocent::innocent:---->[闭包初识](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession7/closures1.md)
+6 函数的了解 ---  :star::star::star::star::star::star:---->[函数](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession6/func.md)  
+7 闭包的了解 ---  :innocent::innocent::innocent::innocent::innocent::innocent:---->[闭包初识](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession7/closures1.md)
 
 
