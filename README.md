@@ -9,6 +9,8 @@ It's time to learn swift again.
 4 数组的使用 --- :bowtie: :bowtie: :bowtie: :bowtie: :bowtie: :bowtie: :bowtie: :bowtie: :bowtie:---->[数组的使用](https://github.com/AlexanderYeah/ATSwiftWorkSpace/blob/master/Lession4/array.md)  
 5 可选类型 --- :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom: :boom:---->[可选类型](https://github.com/AlexanderYeah/ATSwiftWorkSpace/blob/master/Lession5/optional.md)  
 6 函数的了解 ---  :star::star::star::star::star::star:---->[函数](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession6/func.md)  
-7 闭包的了解 ---  :innocent::innocent::innocent::innocent::innocent::innocent:---->[闭包初识](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession7/closures1.md)
+7 闭包的了解 ---  :innocent::innocent::innocent::innocent::innocent::innocent:---->[闭包初识](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession7/closures1.md)  
+8 闭包的了解 ---  :sleepy::sleepy::sleepy::sleepy::sleepy::sleepy::sleepy:---->[闭包2](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession8/closures2.md)
+8 闭包的了解 ---  :sleepy::sleepy::sleepy::sleepy::sleepy::sleepy::sleepy:---->[闭包2](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession8/closures2.md)
 
 
