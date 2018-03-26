@@ -5,7 +5,6 @@ swift 标准库提供了名为 sorted(by:) 的方法，会根据您提供的用�
 `
 var arr1 = [3,8,13,66,22];
 
-
 func showMax(val1:Int,val2:Int) -> Bool{
 	return val1 > val2;
 }
