@@ -12,7 +12,8 @@ It's time to learn swift again.
 7 闭包的了解 ---  :innocent::innocent::innocent::innocent::innocent::innocent:---->[闭包初识](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession7/closures1.md)  
 8 闭包的了解 ---  :sleepy::sleepy::sleepy::sleepy::sleepy::sleepy::sleepy:---->[闭包2](https://github.com/AlexanderYeah/ATSwiftWorkSpace/edit/master/Lession8/closures2.md)  
 9 类的了解 ---   :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup: :thumbsup:---->[类](
-https://github.com/AlexanderYeah/ATSwiftWorkSpace/blob/master/Lession9/class.md)
-9 类的构造方法 ---    :blush: :blush: :blush: :blush: :blush: :blush:---->[类构造方法](
+https://github.com/AlexanderYeah/ATSwiftWorkSpace/blob/master/Lession9/class.md)  
+
+10 类的构造方法 ---    :blush: :blush: :blush: :blush: :blush: :blush:---->[类构造方法](
 https://github.com/AlexanderYeah/ATSwiftWorkSpace/tree/master/Lession10)
 
