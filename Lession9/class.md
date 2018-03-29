@@ -8,7 +8,8 @@ class 类名:superClass {
 }
 
 
-```class dog{
+```
+class dog{
 	var age:Int;
 	init(age:Int) {
     self.age = age;
