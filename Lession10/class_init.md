@@ -5,6 +5,10 @@
 * 即便没有编写任何构造函数，编译器会提供一个默认的构造函数
 * 继承自NSObject，可以对父类的构造函数进行重写
 
+
+## 类的析构方法 相当于dealloc 为 deinit 方法
+
+
 ##  1 构造函数的基本使用 
 ```
 class Person: NSObject {
@@ -53,12 +57,18 @@ print(p.age);
 		name = dict["name"] as! String;
 		age = dict["age"] as! Int;
 	}
+	
+	deinit {
+		print("析构了啊啊啊啊啊")
+	}
 }
 
 // 强制转换为需要的类型
 let dict = ["name" : "alexander", "age" : 18] as! [String : NSObject];
 
-let p = Person(dict: dict);
+var p : Person? = Person(dict: dict);
 
-print(p.age);
+// 置为nil 进行析构
+p = nil;
+
 ```
